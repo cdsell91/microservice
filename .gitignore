@@ -2,3 +2,5 @@
 /microservice.iml
 /product/product.iml
 /.idea/
+/category/target/
+/product/target/
