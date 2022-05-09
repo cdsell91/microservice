@@ -1,6 +1,6 @@
 package com.spring.product.controller;
 
-import com.spring.product.model.Product;
+import com.spring.product.entity.Product;
 import com.spring.product.service.ProductService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
